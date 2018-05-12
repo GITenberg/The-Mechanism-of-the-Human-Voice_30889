@@ -1,0 +1,35 @@
+_repo: The-Mechanism-of-the-Human-Voice_30889
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Behnke, Emil, Mrs.
+    alias: Behnke, Kate
+    deathdate: 1920
+    gutenberg_agent_id: '42589'
+    url: http://www.gutenberg.org/2009/agents/42589
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Behnke, Emil
+    birthdate: 1836
+    deathdate: 1892
+    gutenberg_agent_id: '34877'
+    url: http://www.gutenberg.org/2009/agents/34877
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2010-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Voice'
+- !lcsh 'Singing -- Instruction and study'
+title: The Mechanism of the Human Voice
+url: http://www.gutenberg.org/ebooks/30889
